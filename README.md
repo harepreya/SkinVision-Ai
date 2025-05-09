@@ -17,23 +17,4 @@ SkinVision AI is an intelligent web-based skin analysis system designed to deliv
 - 🌗 **Light/Dark Theme Toggle**
 - ♿ **Accessibility Support (Keyboard Navigation, Screen Reader)**
 
----
 
-## 🛠 Tech Stack
-
-### 💻 Frontend (Web)
-- **Framework**: Next.js (App Router)
-- **Styling**: Tailwind CSS + `shadcn/ui` components
-- **State Management**: React Hooks (`useState`, `useEffect`)
-- **UI/UX Enhancements**: Framer Motion
-- **Image Handling**: HTML5 Canvas API
-
-### 🤖 Backend (AI Model)
-- **Platform**: Google Colab / Python
-- **Model**: ResNet50 (for image classification)
-- **Libraries**:
-  - `TensorFlow`, `Keras`, `OpenCV`
-  - `NumPy`, `Matplotlib`, `Pandas`
-  - `scikit-learn`, `imgaug`, `os`, `glob`
-
----
